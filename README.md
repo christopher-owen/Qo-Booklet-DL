@@ -1,6 +1,8 @@
 # Qo-DL-Booklet-DL
 Tool written in Python to download digital booklets from Qobuz. No CLI support yet.
 
+![](https://thoas.feralhosting.com/sorrow/Qobuz-DL/bklet.jpg)
+
 # Setup
 No account or setup needed. App ID will be fetched automatically if it is not present in your config file.
 
