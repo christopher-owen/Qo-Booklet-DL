@@ -24,12 +24,12 @@ def osCommands(x):
 		if getOs():
 			os.system('pause')
 		else:
-			os.system("read -rsp $\"\"")
+			os.system('read -rsp $\"\"')
 	elif x == "c":
 		if getOs():
 			os.system('cls')
 		else:
-			os.system("clear")
+			os.system('clear')
 	else:
 		if getOs():
 			os.system('title Qo Booklet-DL R1 (by Sorrow446)')
